@@ -1,7 +1,7 @@
 ![MasterHead](https://cache.careers360.mobi/media/private/courses/contents/347989/2021/11/2/7227_Data%20Science%20Prodegree.jpg)
 <h1 align="center">Hi 👋, I'm Vishnu Singh</h1>
 <h3 align="center">A Data Science and Machine Learning Enthusiast from India</h3>
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/vishnusingh-12/python/main/0oskctgr69t85329k9ssc5c0gn.png">
+<img align="right" alt="Coding" width="300" src="https://raw.githubusercontent.com/vishnusingh-12/python/main/0oskctgr69t85329k9ssc5c0gn.png">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vishnusingh-12&label=Profile%20views&color=0e75b6&style=flat" alt="vishnusingh-12" /> </p>
 
 - 🔭 I’m currently working on **Drowsiness Detection**
