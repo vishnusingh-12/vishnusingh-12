@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Drowsiness Detection**
 
-- 🌱 I’m currently learning **Deep Learning**
+- 🌱 I’m currently learning **Generative AI**
 
 - 👨‍💻 All of my projects are available at [https://www.sites.google.com/view/vishnu](https://www.sites.google.com/view/vishnu)
 
