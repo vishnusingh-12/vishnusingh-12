@@ -4,7 +4,7 @@
 <img align="right" alt="Coding" width="300" src="https://raw.githubusercontent.com/vishnusingh-12/python/main/0oskctgr69t85329k9ssc5c0gn.png">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vishnusingh-12&label=Profile%20views&color=0e75b6&style=flat" alt="vishnusingh-12" /> </p>
 
-- 🔭 I’m currently working on **Drowsiness Detection**
+- 🔭 I’m currently working on **Large Language Models**
 
 - 🌱 I’m currently learning **Generative AI**
 
